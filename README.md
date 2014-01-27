@@ -1,0 +1,4 @@
+loremcode
+=========
+
+Filler code generator
